@@ -1,0 +1,17 @@
+Passo 1: Medida -> Tempo Médio de Atendimento (Average)
+Passo 2: Colocar gráfico velocímetro
+	- Formatar: Título: Tempo de Atendimento
+	- Título: Fundo Preto e Cor Branca
+	- Borda: Preta, Raio 9
+	- Colocar o gráfico na parte superior
+Passo 3: Colocar segmentação de Dados para selecionar o Estado
+	- Orientação: Horizontal
+	- Itens: Tela de fundo: Laranja. Cor fonte: Branca
+	- Título: escolha a unidade. Cor Fundo Preta, Letra Branca
+	- Borda: Preta, Raio 7
+Passo 4: Colocar máximo do Tempo de atendimento para Valor Máximo (Medida Max)
+Passo 5: Criar Medida Fixa de meta (ex: 8). Falar que queremos fazer uma meta variável
+Passo 6: Criar um parâmetro para meta variável (entre 2 e 12)
+Passo 7: Explicar que ele cria tipo uma nova tabela com duas coisas: A Meta variável (de 2 a 12) e uma medida com o valor que selecionamos, pra podermos usar no gráfico e tudo mais
+	- Formatar segmentação: Borda: Preta, Raio 16
+Passo 8: Criar medida de cor: Se tempo de atendimento <= meta, verde, caso contrário, Vermelho
